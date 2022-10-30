@@ -1,1 +1,1 @@
-let palavra = "Estamos adicionando pequenas mudanças nesse arquivo js"
+let a = "Fazendo atualizações no arquivo"
