@@ -1,0 +1,1 @@
+let palavra = "Estamos adicionando pequenas mudanças nesse arquivo js"
